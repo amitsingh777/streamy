@@ -1,0 +1,57 @@
+{
+  "streams": [
+    {
+      "title": "nm",
+      "description": "mmm",
+      "id": 1
+    },
+    {
+      "title": "ada",
+      "description": "adad",
+      "id": 2
+    },
+    {
+      "title": "adaa",
+      "description": "dad",
+      "id": 3
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "id": 5
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "id": 6
+    },
+    {
+      "title": "test2",
+      "description": "rere",
+      "id": 7
+    },
+    {
+      "title": "testfinalda",
+      "description": "dad",
+      "userId": null,
+      "id": 11
+    },
+    {
+      "title": "Refactoring the edit stream",
+      "description": "Create Stream Refactor",
+      "id": 12
+    },
+    {
+      "title": "dad",
+      "description": "dad",
+      "userId": "106810957003813454191",
+      "id": 13
+    },
+    {
+      "title": "sch",
+      "description": "cx",
+      "userId": "106810957003813454191",
+      "id": 14
+    }
+  ]
+}
